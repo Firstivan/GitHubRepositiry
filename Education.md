@@ -47,3 +47,11 @@ ___Полужинный курсив___
 
 ## <a id="title1">Заголовок документа</a>
 для перехода к заголовку нажмите &uarr;
+
+# Основные команды третьего семинара:
+- git remote add origin
+- git branch -M main 
+- git push -u origin
+- git remote show origin
+- git remote set-url origin
+- 
